@@ -2,7 +2,7 @@ module.exports.config = {
   name: "hijabdp",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARYAN",
+  credits: "PRINCE",
   description: "hijab dp photos",
   commandCategory: "Random-IMG",
   usages: "hijab dp",
