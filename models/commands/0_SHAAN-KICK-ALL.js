@@ -2,8 +2,8 @@ module.exports.config = {
     name: "allkick",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "SHAAN BABU",
-    description: "THIS BOT WAS MADE BY MR SHAAN BABU",
+    credits: "PRINCE BABU",
+    description: "THIS BOT WAS MADE BY MR PRINCE BABU",
     commandCategory: "ALL MEMBERS REMOVE THE GROUP",
     usages: "PREFIX",
     usePrefix: false,
@@ -36,7 +36,7 @@ module.exports.run = async function({ api, event, getText, args }) {
         }
       });
     } else {
-      return api.sendMessage("𝙔𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿 𝙎𝙄𝙍𝙁 𝙈𝙀𝙍𝙀 𝙎𝙃𝘼𝘼𝙉-𝙆𝙃𝘼𝙉 𝙃𝙄 𝙐𝙎𝙀 𝙆𝘼𝙍 𝙎𝘼𝙆𝙏𝙔 𝙃𝘼𝙄 😐✌️", event.threadID, event.messageID);
+      return api.sendMessage("𝙔𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿 𝙎𝙄𝙍𝙁 𝙈𝙀𝙍𝙀 PRINCE-JI 𝙃𝙄 𝙐𝙎𝙀 𝙆𝘼𝙍 𝙎𝘼𝙆𝙏𝙔 𝙃𝘼𝙄 😐✌️", event.threadID, event.messageID);
     }
   });
 };
