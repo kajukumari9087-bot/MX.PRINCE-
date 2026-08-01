@@ -3,7 +3,7 @@ module.exports.config = {
   name: "chocolate",
     version: "1.1.1",
   hasPermssion: 0,
-  credits: "SHAAN KHAN", 
+  credits: "MR PRINCE", 
   description: "Just Respond",
   commandCategory: "no prefix",
     cooldowns: 5, 
