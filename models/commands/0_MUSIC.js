@@ -3,9 +3,9 @@ const yts = require("yt-search");
 
 /* 🔐 Credits Lock */
 function checkCredits() {
-  // Credits updated to Shaan Khan and locked
-  if (module.exports.config.credits !== "Shaan Khan") {
-    throw new Error("❌ Credits Locked By Shaan Khan");
+  // Credits updated to mr prince and locked
+  if (module.exports.config.credits !== "mr prince") {
+    throw new Error("❌ Credits Locked By mr mr");
   }
 }
 
@@ -47,7 +47,7 @@ function getVideoID(url) {
 module.exports.config = {
   name: "music",
   version: "1.3.5",
-  credits: "Shaan Khan", // Updated credit
+  credits: "mr primce", // Updated credit
   hasPermssion: 0,
   cooldowns: 5,
   description: "YouTube MP3 Downloader",
