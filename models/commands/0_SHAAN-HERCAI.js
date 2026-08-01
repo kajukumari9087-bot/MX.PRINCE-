@@ -4,7 +4,7 @@ module.exports.config = {
   name: "hercai",
   version: "8.0.0",
   hasPermission: 0,
-  credits: "Shaan Khan", 
+  credits: "MR PRINCE", 
   description: "Llama-3 Stable Connection Fix",
   commandCategory: "AI",
   usePrefix: false,
