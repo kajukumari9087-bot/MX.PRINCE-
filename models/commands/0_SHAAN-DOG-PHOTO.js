@@ -3,7 +3,7 @@ module.exports.config = {
 	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "PRINCE  BABU",
-	description: "THIS BOT WAS MADE BY MR ARIF BABU",
+	description: "THIS BOT WAS MADE BY MR PRINCE BABU",
 	commandCategory: "DOG MOMENT",
 	usages: "PREFIX",
 	cooldowns: 1,
