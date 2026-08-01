@@ -2,7 +2,7 @@ module.exports.config = {
   name: "meme",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Mr Shaan",
+  credits: "Mr PRINCE",
   description: "Chaeyoung Pictures.",
   commandCategory: "Image",
   cooldowns: 1,
