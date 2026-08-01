@@ -2,7 +2,7 @@ module.exports.config = {
   name: "cpldp",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAAN-KHAN-K",
+  credits: "MR-PRINCE-K",
   description: "Couple Dp photos",
   commandCategory: "Random-IMG",
   usages: "cpl dp",
