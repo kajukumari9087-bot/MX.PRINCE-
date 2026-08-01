@@ -1,9 +1,9 @@
 module.exports.config = {
-  name: "SHAAN-HELLO-HY",
+  name: "PRINCE-HELLO-HY",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAAN BABU",
-  description: "THIS BOT IS MADE BY SHAAN BABU",
+  credits: "PRINCE BABU",
+  description: "THIS BOT IS MADE BY PRINCE BABU",
   usePrefix: true,
   commandCategory: "HELLO HY",
   usages: "HY HELLO HI",
