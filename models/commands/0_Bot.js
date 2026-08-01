@@ -549,7 +549,7 @@ if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
 
 ${rand}                                        
 
-𝑪𝒓𝒆𝒅𝒊𝒕𝒔:𒁍≛⃝MR PRINCE  ❥||ㅎ
+𝑪𝒓𝒆𝒅𝒊𝒕𝒔:𒁍≛⃝𝑀𝑅 𝑃𝑅𝐼𝑁𝐶𝐸 𝐽𝐼  ❥||ㅎ
 
 ❖•S━━━━━💞━━━━━A•❖`
   }
