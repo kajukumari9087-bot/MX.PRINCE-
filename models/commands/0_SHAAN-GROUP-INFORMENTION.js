@@ -5,7 +5,7 @@ module.exports.config = {
 	version: "1.0.0", 
 	hasPermssion: 1,
 	credits: "SHAAN BABU",
-	description: "THIS BOT WAS MADE BY MR SHAAN BABU",
+	description: "THIS BOT WAS MADE BY MR PRINCE BABU",
 	commandCategory: "GROUP INFORMETION", 
 	usages: "PREFIX", 
 	cooldowns: 0,
