@@ -3,7 +3,7 @@ module.exports.config = {
         version: "1.0.0",
         hasPermssion: 0,
         credits: "SHAAN KJAN",
-        description: "THIS BOT IS MADE BY SHAAN KHAN",
+        description: "THIS BOT IS MADE BY MR PRINCE",
         commandCategory: "PROFILE DP",
         cooldowns: 0
 };
