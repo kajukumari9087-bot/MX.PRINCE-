@@ -2,8 +2,8 @@ module.exports.config = {
   name: "dpname4",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAAN BABU",
-  description: "THIS BOT IS MADE BY SHAAN BABU",
+  credits: "PRINCE BABU",
+  description: "THIS BOT IS MADE BY PRINCE BABU",
   commandCategory: "EDIT NAME TEXT LOVE",
   usages: "TEXT-1 + TEXT-2",
   cooldowns: 1
