@@ -120,10 +120,10 @@
 };
 
 module.exports.config = {
-  name: "SHAAN-EMOJI-REPLY",
+  name: "PRINCE-EMOJI-REPLY",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAAN BABU",
+  credits: "PRINCE BABU",
   description: "Gender based auto reply",
   commandCategory: "Auto",
   cooldowns: 0,
