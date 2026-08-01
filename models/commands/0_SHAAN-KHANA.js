@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-  name: "Khana",
+  name: "PRINCE",
     version: "1.1.1",
   hasPermssion: 0,
   credits: "PRINCE BABU", 
@@ -13,7 +13,7 @@ module.exports.config = {
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   var { threadID, messageID } = event;
   let react = event.body.toLowerCase();
-  if(react.includes("KHANA") ||
+  if(react.includes("khana") ||
      react.includes("khana") || react.includes("lunch") || react.includes("kana") ||
 react.includes("dinner") ||
 react.includes("kha lo")) {
