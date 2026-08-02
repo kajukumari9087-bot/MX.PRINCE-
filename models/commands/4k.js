@@ -16,7 +16,7 @@ module.exports = {
         name: "4k",
         version: "1.0.0",
         hasPermssion: 0,
-        credits: "𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍",
+        credits: "MRPRINCE",
         description: "Enhance image quality using 4K AI",
         commandCategory: "Image",
         usages: "4k (reply image / image url)",
@@ -51,7 +51,7 @@ module.exports = {
             api.unsendMessage(waitMessage.messageID);
 
             return api.sendMessage({
-                body: "✫꯭🎸꯭≛⃝𝐒𝐇𝐀𝐀𝐍-𝐊𝐇𝐀𝐍⎯᪳⤹🌷⤸\x0a\x0a✅ Ye lo aapki 4K image 💖",
+                body: "✫꯭🎸꯭≛⃝MR-PRINCE⎯᪳⤹🌷⤸\x0a\x0a✅ Ye lo aapki 4K image 💖",
                 attachment: response.data
             }, threadID, messageID);
 
