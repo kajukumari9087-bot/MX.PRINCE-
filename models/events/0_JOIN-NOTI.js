@@ -49,15 +49,14 @@ OWNER: PؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓؓPؓ�
 
 ♻️Facebook: 
 
-https://www.facebook.com/profile.php?id=100016828397863&mibextid=ZbWKwL
-
+https://www.facebook.com/profile.php?id=61592813219920
 Youtube Site : N/A
 
 ☢️ INSTAGRAM: N/A
 
-https://www.instagram.com/shankhank345?igsh=MXVneXZ6bzR4bHhvcg==￼
+https://www.instagram.com/look37829?igsh=MTA4dWZ4eWt1d3UwMg==
 
-☣️Email: shankhank345@gmail.com
+☣️Email: khuninalayak@gmail.com
 
 ⚠️Wp: +918271330759`, attachment: fs.createReadStream(__dirname + "/cache/lv_7413647234832682256_20250105005634.mp4")} ,threadID));
         }
